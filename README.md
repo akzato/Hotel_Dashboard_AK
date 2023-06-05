@@ -1,4 +1,4 @@
-# Hotel_Dashboard_AK
+# Tableau_Hotel_Dashboard_AK
 As a business analyst, I have created a comprehensive dashboard using Airbnb data that provides valuable insights into the platform's performance. Here's a summary of the key components and insights included in the dashboard:
 
 1. Listing Overview: This section provides an overview of the Airbnb listings, including the total number of listings, average listing price, and distribution of listings across different property types (e.g., apartments, houses, etc.). It helps understand the overall supply and pricing trends on the platform.
