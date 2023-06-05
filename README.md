@@ -8,3 +8,4 @@ As a business analyst, I have created a comprehensive dashboard using Airbnb dat
 3. Booking Trends: This section presents booking trends over time, highlighting seasonal patterns, occupancy rates, and the average length of stay. It enables users to understand the demand patterns and plan their pricing and availability strategies accordingly.
 
 4. Reviews and Ratings: This component displays the average rating of listings and allows users to explore reviews. It helps identify the key factors contributing to customer satisfaction and provides insights into areas for improvement.
+![image](https://github.com/akzato/Tableau_Hotel_Dashboard_AK/assets/135569805/112b0135-44c1-40a9-a26d-641ac558a350)
